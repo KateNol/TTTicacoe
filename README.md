@@ -11,10 +11,7 @@ Ein einfaches Konsolenspiel für zwei Spieler, das in C++ programmiert wurde. Es
 - [Features](#features)
 - [Installation](#installation)
 - [Benutzung](#benutzung)
-- [Code-Beispiele](#code-beispiele)
-- [Mitwirkende](#mitwirkende)
-- [Lizenz](#lizenz)
-- [Kontakt](#kontakt)
+- [Code-Beispiele]
 
 ## Einleitung
 Dieses Projekt ist eine Implementierung des klassischen Tic-Tac-Toe-Spiels. Es ist ein einfaches, interaktives Spiel, das auf der Konsole läuft und es zwei Spielern ermöglicht, abwechselnd Züge zu machen, um zu versuchen, drei ihrer Symbole in einer Reihe (horizontal, vertikal oder diagonal) zu platzieren.
